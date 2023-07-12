@@ -1,2 +1,17 @@
 payload:
+  # alibaba
+  - DOMAIN-SUFFIX,alibaba-inc.com
+  - DOMAIN-SUFFIX,aliyun-inc.com
+  - DOMAIN-SUFFIX,antfin.com
+  - DOMAIN-SUFFIX,yuque.com
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-KEYWORD,alipay
+  - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,tbcdn
+  - DOMAIN-KEYWORD,symantec
+  - DOMAIN-KEYWORD,hz.ali
+  - DOMAIN-KEYWORD,dingtalk
+
+  # youdao dict
   - DOMAIN-SUFFIX,youdao.com
